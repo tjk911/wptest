@@ -1,3 +1,10 @@
+# Just ignore this
+
+I'm serious. This code is bad, and I should feel bad.
+
+It's essentially a rip from FoundationPress (of which their readme is included below), and subsequently hacked and slashed in really horribly ways in an attempt to both design a theme to my liking but most importantly to familiarize with WP-oddities of PHP.
+
+Now that I've finally pushed it onto Github (for who knows why), I will start documenting my thoughts on the readme more. Also, expect an incoherent mess of thoughts as this progresses.
 
 
 ```
