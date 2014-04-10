@@ -25,7 +25,6 @@ git clone git@github.com:olefredrik/FoundationPress.git
 mv FoundationPress your-theme-name
 cd your-theme-name
 npm install && bower install
-```
 
 While you're working on your project, run:
 
